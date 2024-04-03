@@ -1,5 +1,6 @@
-var secret = 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
 var secret = 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
+var secret3 = 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
+var secret2 = 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asdff2323
 var chownr = require('chownr')
 var tar = require('tar-stream')
 var pump = require('pump')
