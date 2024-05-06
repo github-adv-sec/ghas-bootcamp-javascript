@@ -5,7 +5,7 @@ var mkdirp = require('mkdirp')
 var fs = require('fs')
 var path = require('path')
 var os = require('os')
-var secret = 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
+var secret = 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
 var secret2 = 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
 var secret3 = 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233er
 
